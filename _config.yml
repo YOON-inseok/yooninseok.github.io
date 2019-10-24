@@ -341,3 +341,5 @@ manifest_background_color: white
 manifest_short_name:
 manifest_display: standalone
 remote_theme : mmistakes/minimal-mistakes
+
+theme: jekyll-theme-time-machine
